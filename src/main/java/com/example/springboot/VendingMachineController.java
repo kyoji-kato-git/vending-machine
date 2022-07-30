@@ -13,5 +13,4 @@ public class VendingMachineController {
         model.addAttribute("message", "こんにちは世界");
         return "index";
     }
- 
 }
